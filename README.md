@@ -1,6 +1,10 @@
 # nebulous_weather
 
-A new Flutter project.
+A simple weather display built with Flutter. I need to add more changes and features to this app before deployment. Here is just a sample.
+
+## Screenshots
+![localImage](./images/nebulous_weather_sample.png)
+![localImage](./images/nebulous_weather_sample_mobile.jpeg)
 
 ## Getting Started
 
